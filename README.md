@@ -1,6 +1,6 @@
-## Sistem Administrasi Pesawat CRUD
+# Sistem Administrasi Pesawat CRUD
 
-# how Run Project
+## how Run Project
 
 Clone Repo
 ```
